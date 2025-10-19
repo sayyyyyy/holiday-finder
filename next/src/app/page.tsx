@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useEffect } from "react";
 import Link from "next/link";
+import { useEffect, useState } from "react";
+
 import IdeaCard from "@/app/components/IdeaCard";
 
 // データ構造の型定義
@@ -47,13 +48,17 @@ export default function Home() {
         </h1>
         <div className="flex justify-center gap-4 mb-8">
           <button
+            type="button"
             onClick={getRandomIdea}
             className="px-6 py-2 font-semibold text-white bg-blue-500 rounded-lg hover:bg-blue-600 transition-colors"
           >
             ランダムで提案
           </button>
           <Link href="/genres" passHref>
-            <button className="px-6 py-2 font-semibold text-gray-700 bg-gray-200 rounded-lg hover:bg-gray-300 transition-colors">
+            <button
+              type="button"
+              className="px-6 py-2 font-semibold text-gray-700 bg-gray-200 rounded-lg hover:bg-gray-300 transition-colors"
+            >
               ジャンルから選ぶ
             </button>
           </Link>
@@ -65,6 +70,7 @@ export default function Home() {
           <IdeaCard idea={currentIdea} />
           <div className="text-center mt-4">
             <button
+              type="button"
               onClick={getRandomIdea}
               className="px-6 py-2 font-semibold text-blue-500 bg-transparent rounded-lg border border-blue-500 hover:bg-blue-50 hover:text-blue-600 transition-colors"
             >

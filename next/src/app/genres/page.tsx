@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useEffect } from "react";
 import Link from "next/link";
+import { useEffect, useState } from "react";
+
 import IdeaCard from "@/app/components/IdeaCard";
 
 // データ構造の型定義
@@ -52,6 +53,7 @@ export default function GenresPage() {
         <div className="flex justify-center flex-wrap gap-4 mb-8">
           {CATEGORIES.map((category) => (
             <button
+              type="button"
               key={category.key}
               onClick={() => getIdeaByCategory(category.key)}
               className={`px-6 py-2 font-semibold rounded-lg transition-colors ${
@@ -74,7 +76,7 @@ export default function GenresPage() {
 
       <div className="mt-8">
         <Link href="/" passHref>
-          <button className="text-blue-500 hover:underline">
+          <button type="button" className="text-blue-500 hover:underline">
             ホームに戻る
           </button>
         </Link>
