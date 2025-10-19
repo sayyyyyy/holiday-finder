@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "category": "outdoor",
+    "title": "近くのカフェを巡る",
+    "description": "お気に入りのカフェを見つけてリラックスしよう。",
+    "tags": ["外出", "リラックス"]
+  },
+  {
+    "id": 2,
+    "category": "outdoor",
+    "title": "自然公園を散歩する",
+    "description": "軽い運動で気分転換。季節の花もチェック。",
+    "tags": ["外出", "健康"]
+  },
+  {
+    "id": 3,
+    "category": "outdoor",
+    "title": "地元の市場を探検",
+    "description": "地域の食材や工芸品を見つけてみよう。",
+    "tags": ["外出", "発見"]
+  },
+  {
+    "id": 4,
+    "category": "outdoor",
+    "title": "美術館・博物館を訪問",
+    "description": "新しい刺激を受けて感性を磨こう。",
+    "tags": ["外出", "文化"]
+  },
+  {
+    "id": 5,
+    "category": "outdoor",
+    "title": "お気に入りの写真スポット巡り",
+    "description": "カメラを持って風景を撮影しよう。",
+    "tags": ["外出", "写真"]
+  },
+  {
+    "id": 6,
+    "category": "outdoor",
+    "title": "ピクニックを計画",
+    "description": "お弁当を持って公園でのんびり。",
+    "tags": ["外出", "リラックス"]
+  },
+  {
+    "id": 7,
+    "category": "outdoor",
+    "title": "近くの温泉へドライブ",
+    "description": "日帰り温泉でリフレッシュ。",
+    "tags": ["外出", "癒し"]
+  },
+  {
+    "id": 8,
+    "category": "outdoor",
+    "title": "ハイキングコースに挑戦",
+    "description": "自然の中で身体を動かそう。",
+    "tags": ["外出", "健康"]
+  },
+  {
+    "id": 9,
+    "category": "outdoor",
+    "title": "図書館や書店を巡る",
+    "description": "新しい本との出会いを楽しもう。",
+    "tags": ["外出", "学び"]
+  },
+  {
+    "id": 10,
+    "category": "outdoor",
+    "title": "映画館で最新作を鑑賞",
+    "description": "ポップコーン片手にリラックス。",
+    "tags": ["外出", "エンタメ"]
+  },
+
+  {
+    "id": 11,
+    "category": "indoor",
+    "title": "映画を1本観る",
+    "description": "気になっていた映画を観る時間を作ろう。",
+    "tags": ["自宅", "リラックス"]
+  },
+  {
+    "id": 12,
+    "category": "indoor",
+    "title": "部屋の模様替え",
+    "description": "家具の配置を変えて気分転換。",
+    "tags": ["自宅", "整理整頓"]
+  },
+  {
+    "id": 13,
+    "category": "indoor",
+    "title": "新しい料理に挑戦",
+    "description": "レシピサイトを見て初めての料理を作ってみよう。",
+    "tags": ["自宅", "挑戦"]
+  },
+  {
+    "id": 14,
+    "category": "indoor",
+    "title": "読書タイム",
+    "description": "カフェ気分で静かに読書を楽しもう。",
+    "tags": ["自宅", "学び"]
+  },
+  {
+    "id": 15,
+    "category": "indoor",
+    "title": "DIYでインテリアを作る",
+    "description": "小物を作って部屋をおしゃれに。",
+    "tags": ["自宅", "創作"]
+  },
+  {
+    "id": 16,
+    "category": "indoor",
+    "title": "ボードゲーム大会",
+    "description": "家族や友達とわいわい遊ぼう。",
+    "tags": ["自宅", "交流"]
+  },
+  {
+    "id": 17,
+    "category": "indoor",
+    "title": "オンライン英会話体験",
+    "description": "1日15分でも新しい発見。",
+    "tags": ["自宅", "学び"]
+  },
+  {
+    "id": 18,
+    "category": "indoor",
+    "title": "写真整理デー",
+    "description": "スマホの写真をアルバムにまとめよう。",
+    "tags": ["自宅", "整理"]
+  },
+  {
+    "id": 19,
+    "category": "indoor",
+    "title": "お菓子作り",
+    "description": "手作りスイーツで甘い時間を。",
+    "tags": ["自宅", "料理"]
+  },
+  {
+    "id": 20,
+    "category": "indoor",
+    "title": "ヨガ・ストレッチ",
+    "description": "YouTube動画を見ながら体をほぐそう。",
+    "tags": ["自宅", "健康"]
+  },
+
+  {
+    "id": 21,
+    "category": "refresh",
+    "title": "早起きして朝散歩",
+    "description": "朝の空気を吸って一日を始めよう。",
+    "tags": ["健康", "リフレッシュ"]
+  },
+  {
+    "id": 22,
+    "category": "refresh",
+    "title": "デジタルデトックス",
+    "description": "1日スマホを触らず過ごしてみよう。",
+    "tags": ["心", "リセット"]
+  },
+  {
+    "id": 23,
+    "category": "refresh",
+    "title": "お風呂で半身浴",
+    "description": "お気に入りの入浴剤で癒し時間。",
+    "tags": ["癒し", "自宅"]
+  },
+  {
+    "id": 24,
+    "category": "refresh",
+    "title": "お気に入り音楽で瞑想",
+    "description": "深呼吸と音楽で心を整えよう。",
+    "tags": ["音楽", "リフレッシュ"]
+  },
+  {
+    "id": 25,
+    "category": "refresh",
+    "title": "自然音を聞きながら昼寝",
+    "description": "静かな午後を過ごしてみよう。",
+    "tags": ["休息", "自宅"]
+  },
+  {
+    "id": 26,
+    "category": "refresh",
+    "title": "温泉・サウナで整う",
+    "description": "心身の疲れをリセットしよう。",
+    "tags": ["外出", "癒し"]
+  },
+  {
+    "id": 27,
+    "category": "refresh",
+    "title": "お気に入りカフェで読書",
+    "description": "リラックスできる時間を過ごそう。",
+    "tags": ["外出", "リラックス"]
+  },
+  {
+    "id": 28,
+    "category": "refresh",
+    "title": "アロマキャンドルを焚く",
+    "description": "香りでリフレッシュしよう。",
+    "tags": ["癒し", "自宅"]
+  },
+  {
+    "id": 29,
+    "category": "refresh",
+    "title": "音楽フェス・ライブ配信を見る",
+    "description": "家でもライブ気分を楽しもう。",
+    "tags": ["音楽", "エンタメ"]
+  },
+  {
+    "id": 30,
+    "category": "refresh",
+    "title": "お気に入りの服でおでかけ",
+    "description": "おしゃれして街を歩くだけで気分UP。",
+    "tags": ["外出", "気分転換"]
+  },
+
+  {
+    "id": 31,
+    "category": "learning",
+    "title": "TEDトークを1本観る",
+    "description": "短い動画で新しい視点を得よう。",
+    "tags": ["学び", "自宅"]
+  },
+  {
+    "id": 32,
+    "category": "learning",
+    "title": "プログラミングを学ぶ",
+    "description": "簡単なWebサイトを作ってみよう。",
+    "tags": ["学び", "挑戦"]
+  },
+  {
+    "id": 33,
+    "category": "learning",
+    "title": "新しいレシピを研究",
+    "description": "料理の知識を増やして生活を豊かに。",
+    "tags": ["学び", "料理"]
+  },
+  {
+    "id": 34,
+    "category": "learning",
+    "title": "無料オンライン講座を受講",
+    "description": "CourseraやUdemyで興味のある分野を学ぼう。",
+    "tags": ["学び", "スキルアップ"]
+  },
+  {
+    "id": 35,
+    "category": "learning",
+    "title": "外国語アプリで単語練習",
+    "description": "毎日少しずつ語彙を増やそう。",
+    "tags": ["学び", "語学"]
+  },
+  {
+    "id": 36,
+    "category": "learning",
+    "title": "日記を書く",
+    "description": "思考を整理して気持ちを可視化。",
+    "tags": ["自己分析", "表現"]
+  },
+  {
+    "id": 37,
+    "category": "learning",
+    "title": "手帳やノートを整理",
+    "description": "来週の計画を立てよう。",
+    "tags": ["整理", "計画"]
+  },
+  {
+    "id": 38,
+    "category": "learning",
+    "title": "本の要約ノートを作る",
+    "description": "読んだ内容をまとめて知識を定着。",
+    "tags": ["学び", "アウトプット"]
+  },
+  {
+    "id": 39,
+    "category": "learning",
+    "title": "歴史・科学ドキュメンタリーを見る",
+    "description": "知的好奇心を刺激する休日を。",
+    "tags": ["学び", "映像"]
+  },
+  {
+    "id": 40,
+    "category": "learning",
+    "title": "ブログ記事を書く",
+    "description": "自分の考えを発信してみよう。",
+    "tags": ["発信", "創作"]
+  },
+
+  {
+    "id": 41,
+    "category": "outdoor",
+    "title": "サイクリング",
+    "description": "自転車で少し遠くまで行ってみよう。",
+    "tags": ["運動", "外出"]
+  },
+  {
+    "id": 42,
+    "category": "outdoor",
+    "title": "地元のイベントに参加",
+    "description": "地域の交流を楽しもう。",
+    "tags": ["交流", "外出"]
+  },
+  {
+    "id": 43,
+    "category": "outdoor",
+    "title": "夜景を見に行く",
+    "description": "夜の景色を眺めながらリラックス。",
+    "tags": ["外出", "癒し"]
+  },
+  {
+    "id": 44,
+    "category": "outdoor",
+    "title": "写真展や個展を訪問",
+    "description": "アートに触れる一日。",
+    "tags": ["文化", "外出"]
+  },
+  {
+    "id": 45,
+    "category": "outdoor",
+    "title": "海辺を散歩",
+    "description": "波音を聞きながらのんびり。",
+    "tags": ["自然", "癒し"]
+  },
+  {
+    "id": 46,
+    "category": "outdoor",
+    "title": "動物園・水族館へ",
+    "description": "癒しと発見を同時に。",
+    "tags": ["外出", "エンタメ"]
+  },
+  {
+    "id": 47,
+    "category": "outdoor",
+    "title": "友達とランチ",
+    "description": "気軽に会話してリフレッシュ。",
+    "tags": ["交流", "食事"]
+  },
+  {
+    "id": 48,
+    "category": "outdoor",
+    "title": "キャンプ体験",
+    "description": "自然の中で非日常を感じよう。",
+    "tags": ["外出", "冒険"]
+  },
+  {
+    "id": 49,
+    "category": "outdoor",
+    "title": "古着屋巡り",
+    "description": "掘り出し物を探そう。",
+    "tags": ["外出", "ファッション"]
+  },
+  {
+    "id": 50,
+    "category": "outdoor",
+    "title": "朝活カフェ",
+    "description": "早起きして静かな時間を楽しむ。",
+    "tags": ["外出", "習慣"]
+  },
+
+  {
+    "id": 51,
+    "category": "indoor",
+    "title": "ゲームをプレイ",
+    "description": "好きなゲームで気分転換。",
+    "tags": ["自宅", "エンタメ"]
+  },
+  {
+    "id": 52,
+    "category": "indoor",
+    "title": "手紙を書く",
+    "description": "大切な人に気持ちを伝えてみよう。",
+    "tags": ["自宅", "心"]
+  },
+  {
+    "id": 53,
+    "category": "indoor",
+    "title": "掃除デー",
+    "description": "部屋を整えて気分をスッキリ。",
+    "tags": ["整理", "自宅"]
+  },
+  {
+    "id": 54,
+    "category": "indoor",
+    "title": "SNS断ち",
+    "description": "情報から少し離れてみる。",
+    "tags": ["心", "リセット"]
+  },
+  {
+    "id": 55,
+    "category": "indoor",
+    "title": "ポッドキャストを聴く",
+    "description": "耳から新しい知識を。",
+    "tags": ["学び", "音声"]
+  },
+  {
+    "id": 56,
+    "category": "indoor",
+    "title": "アートを描く",
+    "description": "自由な発想で絵を描いてみよう。",
+    "tags": ["創作", "自宅"]
+  },
+  {
+    "id": 57,
+    "category": "indoor",
+    "title": "観葉植物の手入れ",
+    "description": "緑と触れ合う時間を。",
+    "tags": ["癒し", "自宅"]
+  },
+  {
+    "id": 58,
+    "category": "indoor",
+    "title": "映画のサントラを聴く",
+    "description": "音楽で映画の余韻を楽しむ。",
+    "tags": ["音楽", "自宅"]
+  },
+  {
+    "id": 59,
+    "category": "indoor",
+    "title": "クラフトビールを楽しむ",
+    "description": "家で少し贅沢な夜を。",
+    "tags": ["食事", "自宅"]
+  },
+  {
+    "id": 60,
+    "category": "indoor",
+    "title": "昔のアルバムを見る",
+    "description": "懐かしい思い出を振り返ろう。",
+    "tags": ["懐古", "自宅"]
+  }
+]
