@@ -45,7 +45,7 @@ https://holiday-finder-one.vercel.app/
 
 ```
 holiday-finder/
-├─ src/
+├─ next/
 │  ├─ src/
 │  │  ├─ app/
 │  │  │  ├─ page.tsx              # ホーム画面 (ランダム提案)
