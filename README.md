@@ -4,6 +4,8 @@
 
 HolidayFinderは、シンプルな操作で休日の過ごし方のアイデアを提供してくれるWebアプリケーションです。
 
+![イメージ画像](image.png)
+
 ## アプリケーションURL
 https://holiday-finder-one.vercel.app/
 
